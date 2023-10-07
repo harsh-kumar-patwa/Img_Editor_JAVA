@@ -7,4 +7,5 @@ Mainly it can do :
 3. Rotate Images
 4. Green/Red/Blue Scale
 5. Grey Scale Image
-   
+
+Sample Image has been uploaded in ZIP file
